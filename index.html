@@ -268,6 +268,16 @@ João Abreu is the Artistic Director of Cidnay International Masterclass Series,
                 <li></li>
                 <li></li>
                 <li></li>
+
+                <ul>
+                  {% for post in site.posts %}
+                    <li>
+                      <a href="{{ post.url }}">{{ post.title }}</a>
+                      {{ post.title }}
+                    </li>
+                  {% endfor %}
+                </ul>
+
               </ul>
             </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
