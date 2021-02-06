@@ -220,7 +220,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../../images/joaoabreu-viola-3.jpg") top center;
   background-size: cover;
-  background-position: right;
+  background-position: center;
 }
 
 #hero:before {
