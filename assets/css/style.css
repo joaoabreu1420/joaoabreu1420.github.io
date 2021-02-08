@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: chocolate;
   text-decoration: none;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: chocolate;
   text-decoration: none;
 }
 
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #149ddd;
+  background: chocolate;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #2eafec;
+  background: chocolate;
   transition: background 0.2s ease-in-out;
 }
 
@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background: chocolate;
   color: #fff;
   text-decoration: none;
 }
@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
-  color: #149ddd;
+  color: chocolate;
 }
 
 /* Mobile Navigation */
@@ -259,7 +259,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid chocolate;
 }
 
 @media (min-width: 1024px) {
@@ -311,7 +311,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: chocolate;
   bottom: 0;
   left: 0;
 }
@@ -759,11 +759,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: white;
   float: left;
   width: 44px;
   height: 44px;
-  background: #dff3fc;
+  background: chocolate;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -783,7 +783,7 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #173b6c;
+  color: black;
 }
 
 .contact .info .email p {
@@ -815,7 +815,7 @@ section {
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #149ddd;
+  background: chocolate;
   color: #fff;
 }
 
